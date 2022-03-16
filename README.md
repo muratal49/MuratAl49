@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MuratAl49
-- 👀 I’m interested in Engineering Simulations and Data Analysis 
-- 🌱 I’m currently working on common tools used in Data Science and data analysis methods. I’m looking to collaborate on engineering applications of data processing.
+- 👋 Hi, I’m Murat Al.
+- 👀 I’m interested in Engineering Simulations and Data Analysis and Machine Learning Algorithms.
+- 🌱 I’m currently working on common tools used in Data Science and data analysis methods. I’m looking to collaborate on engineering applications of that require data processing and interpretation.
 
 
 <!---
