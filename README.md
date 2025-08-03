@@ -25,8 +25,7 @@
 ---
 
 ## 📬 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com)  
-- 💻 *Portfolio coming soon!*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muratal-ds/)   💻 
 
 ---
 ⭐️ *Check out my repositories for more projects on AI, ML, and data-driven solutions!*
