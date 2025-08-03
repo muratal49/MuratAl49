@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Murat!
+# Hi, I'm Murat! 
 
-🎓 **Ph.D. in Computational Mechanics | Data Science Master's Student**  
+🎓 **Ph.D. in Computational Mechanics | Master's in Data Science**  
 💡 Passionate about **AI, Machine Learning, NLP, Deep Learning, and Predictive Modeling**, with a strong engineering background and hands-on experience in research-driven projects.
 
 ---
